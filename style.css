@@ -112,7 +112,7 @@ nav {
   height: 140px;
 }
 nav div {
-  background: url("https://assets.cdn.filesafe.space/yLQUYvGc09yOJk4tzYoR/media/647910e32850fe7f6326cffe.png");
+  background: url("647910e32850fe7f6326cffe.png");
   opacity: 1;
   height: 100px;
   width: 100%;
@@ -325,7 +325,7 @@ footer a:hover {
 
 @media (max-width: 767px) {
   nav div {
-    background: url("https://assets.cdn.filesafe.space/yLQUYvGc09yOJk4tzYoR/media/6479ead22850fea4be28caa6.png");
+    background: url("6479ead22850fea4be28caa6.png");
     opacity: 1;
     height: 100px;
     width: 100%;
